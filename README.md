@@ -1,1 +1,1 @@
-# WTF-form-project
+# This project is an initiative of tech4dev women techsters fellowship class of 2023. It aims at testing basic html and css skills.
